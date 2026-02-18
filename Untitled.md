@@ -15,4 +15,9 @@
 > critical rendering path
 > prograsive image/ image carosal
 > infine scrolling
-> poll
+> poll widgit design 
+> library design
+> react append in the andriod app
+> form design
+> 
+> 
