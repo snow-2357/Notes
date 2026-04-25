@@ -5,7 +5,7 @@ This is a categorized list of LeetCode medium questions.
 ## Arrays and Two Pointers
 *   3Sum
 *   Sort Colors
-*   Kth Largest Element in an Array
+*   Kth Largest Element in an Array (this not )
 *   Maximum Points You Can Obtain from Cards
 *   Subarray Sum Equals K
 *   Subarray Sums Divisible by K
