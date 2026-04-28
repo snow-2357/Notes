@@ -8,7 +8,7 @@ This is a categorized list of LeetCode medium questions.
 *   Kth Largest Element in an Array (this not )
 *   Maximum Points You Can Obtain from Cards
 *   Subarray Sum Equals K
-*   Subarray Sums Divisible by K
+*   Subarray Sums Divisible by K (revise)
 *   Rotate Array
 *   Intersection of Two Arrays II
 
