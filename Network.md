@@ -1,0 +1,30 @@
+- What is a Network?
+- Client–Server Architecture
+- OSI Model (high level)
+- TCP/IP Model
+- IP Addresses (Public, Private, Loopback)
+- Subnets & CIDR (basics)
+- Ports
+- DNS
+- MAC Address & ARP (basics)
+- Routing & Default Gateway
+- TCP
+- UDP
+- TCP vs UDP
+- HTTP
+- HTTPS (TLS/SSL basics)
+- HTTP Methods
+- HTTP Status Codes
+- HTTP Headers
+- Cookies
+- Sessions
+- JWT
+- CORS
+- WebSockets
+- Reverse Proxy
+- Load Balancer
+- NAT
+- Firewalls / Security Groups
+- Docker Networking
+- Linux Networking Commands (`ping`, `curl`, `ip`, `ss`, `dig`, `traceroute`)
+- VPC & Subnets (Cloud basics)
