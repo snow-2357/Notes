@@ -28,3 +28,16 @@
 - Docker Networking
 - Linux Networking Commands (`ping`, `curl`, `ip`, `ss`, `dig`, `traceroute`)
 - VPC & Subnets (Cloud basics)
+
+
+
+- **Dockerize a React App**
+- **Dockerize a Node.js/Go REST API**
+- **React + API with Docker Compose**
+- **Nginx Reverse Proxy for Multiple APIs**
+- **Nginx Load Balancer with Two API Containers**
+- **React + Go API + PostgreSQL + Redis (Docker Compose)**
+- **URL Shortener (React + Go + PostgreSQL + Redis + Nginx)**
+- **Chat Application (WebSockets + Nginx + Docker)**
+- **Microservices (User Service + Product Service + API Gateway + Nginx)**
+- **Production Deployment Simulation (React + API + Nginx + PostgreSQL + Redis + Docker Compose)**
